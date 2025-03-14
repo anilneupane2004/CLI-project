@@ -14,7 +14,9 @@ import sqlite3
 # git commit -m "your commit message"
 
 # git status => to check the status of files
-# git diff => to check the change in files
+# git diff => to check the change in files 
+# copy paste from github from code
+# git push
 
 def create_connection():
     try:
